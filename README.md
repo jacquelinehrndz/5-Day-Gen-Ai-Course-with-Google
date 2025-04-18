@@ -1,7 +1,7 @@
 # 5-Day-Gen-Ai-Course-with-Google :globe_with_meridians:
 5-day online course on March 31 - April 4 created by a team of Google’s ML researchers and engineers, designed to help developers dive deep into the basics of the technologies and techniques behind Generative AI (Gen AI)
 
-# 5-Day Gen AI Intensive Course with Google Learn Guide :bell:
+# Learn Guide :bell:
 The course is now available as a self paced learning guide to those who missed out!
 Access it [here](https://www.kaggle.com/learn-guide/5-day-genai?utm_medium=email&utm_source=gamma&utm_campaign=learn-5daygenai).
 
