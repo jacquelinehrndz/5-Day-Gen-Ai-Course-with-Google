@@ -3,12 +3,12 @@
 
 # Learn Guide :bell:
 The course is now available as a self paced learning guide to those who missed out!
-Access it [here](https://www.kaggle.com/learn-guide/5-day-genai?utm_medium=email&utm_source=gamma&utm_campaign=learn-5daygenai).
+Access it [here](https://www.kaggle.com/learn-guide/5-day-genai?utm_medium=email&utm_source=gamma&utm_campaign=learn-5daygenai)!
 
 # This course provides :bulb:
 - White Paper Readings & podcast summaries of Readings
 - Code Labs that go over the material
-- LiveStreams where the authors and course contributors will dive deeper into the topics and answer your burning questions, along with guest speakers!
+- LiveStreams where the authors and course contributors will dive deeper into the topics and answer questions, along with guest speakers!
 
 # Repo Structure :thought_balloon:
 Each folder contains
